@@ -1,5 +1,40 @@
 ## Профильное задание - Frontend-разработчик в команду сообществ
 
+## Get started
+
+### Clone repository
+
+```bash
+git clone git@github.com:NadyKamenskaya/Community-Team-Task-VK.git
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### App builder
+
+```bash
+npm run build
+```
+
+### Running the application
+
+```bash
+npm start
+```
+
+## Demo
+
+https://github.com/NadyKamenskaya/ToDo/assets/106657729/55d5c342-b7ef-417e-b1e1-4f1fcf258cc4
+
+_You can try UX/UI-friendly react app by clicking on the link below!_ 👇🏻
+
+[_**Click me**_](https://nady-to-do-type-script.vercel.app/)
+
+
 Создайте простое react приложение, состоящее из одной страницы, которое при открытии будет запрашивать список групп с backend (замокайте ответ метода данными из файла `groups.json`).
 
 Типизация ответа метода получения групп `GetGroupsResponse`:
