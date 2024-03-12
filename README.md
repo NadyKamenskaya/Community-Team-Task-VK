@@ -28,11 +28,12 @@ npm start
 
 ## Demo
 
-https://github.com/NadyKamenskaya/ToDo/assets/106657729/55d5c342-b7ef-417e-b1e1-4f1fcf258cc4
+https://github.com/NadyKamenskaya/Community-Team-Task-VK/assets/106657729/5191828d-5f26-49ab-8627-8d010564361c
+
 
 _You can try UX/UI-friendly react app by clicking on the link below!_ 👇🏻
 
-[_**Click me**_](https://nady-to-do-type-script.vercel.app/)
+[_**Click me**_](https://community-team-task-vk.vercel.app/)
 
 
 Создайте простое react приложение, состоящее из одной страницы, которое при открытии будет запрашивать список групп с backend (замокайте ответ метода данными из файла `groups.json`).
